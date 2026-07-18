@@ -44,7 +44,7 @@ AI & Data Science Student | Data Analytics Enthusiastr
 
 📍 Nashik, Maharashtra, India  
 
-💻 Passionate about **Data Analytics, Machine Learning, Artificial Intelligence **  
+💻 Passionate about **Data Analytics, Machine Learning, Artificial Intelligence**  
 
 🌱 Currently learning **Python, SQL, Power BI, Tableau, Machine Learning and DSA**  
 
